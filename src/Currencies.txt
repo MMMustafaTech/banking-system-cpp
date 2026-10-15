@@ -1,0 +1,3 @@
+Demo Country A#//#USD#//#Demo Dollar#//#1.000000
+Demo Country B#//#EUR#//#Demo Euro#//#0.900000
+Demo Country C#//#SAR#//#Demo Riyal#//#3.750000

@@ -1,0 +1,28 @@
+# Visual Studio and generated build files
+.vs/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+*.user
+*.suo
+*.pdb
+*.exe
+*.dll
+*.obj
+*.ilk
+*.idb
+*.tlog
+*.cache
+# Local databases, archives, and logs
+*.bak
+*.mdf
+*.ldf
+*.zip
+*.rar
+*.log
+LoginRegister.txt
+TransferLog.txt
